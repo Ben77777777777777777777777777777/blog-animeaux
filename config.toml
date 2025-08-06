@@ -1,0 +1,5 @@
+
+baseURL = "https://example.com/"
+languageCode = "fr-fr"
+title = "Accessoires pour chiens"
+theme = "ananke"
